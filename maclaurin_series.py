@@ -1,3 +1,4 @@
+#this is a maclaurin series implementation for sine function
 import math
 
 def maclaurin(n,x):
